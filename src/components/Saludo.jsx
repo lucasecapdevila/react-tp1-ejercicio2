@@ -1,8 +1,8 @@
 import React from 'react'
 
-function Saludo() {
+function Saludo({saludoProps}) {
   return (
-    <h1 className='text-center my-4'>Hello World !</h1>
+    <h1 className='text-center my-4'>Hello {saludoProps} !</h1>
   )
 }
 

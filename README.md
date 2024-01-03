@@ -1,13 +1,14 @@
 # Ejercicios React - Rolling Code School 
 Prácticas con componentes, ciclo de vida del componente, eventos etc.
 
-## Ejercicio N°1: Hello world - Dificultad:  🟢
+## Ejercicio N°2: Hello world (parte 2)- Dificultad: 🟢
 
-Crear una aplicación web con un componente que muestre en pantalla el mensaje “Hello World”.
+Modificar el componente anterior y enviar mediante props el valor “My friend” de
+manera que el mensaje quede de la siguiente forma:
 
 <br>
 
-![Ejercicio 1](./public/tp1.jpg)
+![Ejercicio 2](./public/tp2.jpg)
 
 ### Link de Deploy:
-- [Netlify](https://lucasecapdevila-tpn1react76i.netlify.app/)
+- [Netlify](https://lucasecapdevila-tpn2react76i.netlify.app/)
